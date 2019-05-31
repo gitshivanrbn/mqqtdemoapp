@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MQTTnetwerkenopdr1</string>
+    <string name="App_name">MQTT client voor netwerken :)</string>
+    <string name="Address_input">IP address</string>
+    <string name="button_connecttobroker">Connect</string>
+    <string name="button_setIP">set IP</string>
+    <string name="text_connectedto">Connected to broker</string>
+    <string name="button_subscribe">subscribe</string>
+    <string name="button_publish">publish</string>
+    <string name="text_subscribe">topic</string>
+    <string name="text_publish">publish</string>
+    <string name="text_publishdescription">enter a topic in the topic field, then enter a message in the publish field and press the publish button. The message wil be
+    automatically pushed to the topic you filled in</string>
+    <string name="text_messages">Messages:</string>
+    <string name="empty_text"></string>
+</resources>
